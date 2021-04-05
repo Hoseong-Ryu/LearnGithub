@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-123
-=======
-12
-123
-ewoifjoij
->>>>>>> subbranch
